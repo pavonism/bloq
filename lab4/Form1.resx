@@ -1,0 +1,1109 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_new_schema" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_save_schema" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_load_schema" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 135</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Plik</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Name" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="TableEditorButtons" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label1" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="TextBoxSelected" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Absolute,120,Absolute,20,Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="groupBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 144</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 290</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Edycja</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Name" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_polish_lang" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_eng_lang" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="groupBox3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 440</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>188, 112</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Język</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>603, 3</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>194, 555</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="groupBox1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox3" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,25.40651,Percent,53.35365,Percent,21.23983" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Name" xml:space="preserve">
+    <value>button_new_schema</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Name" xml:space="preserve">
+    <value>button_save_schema</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Name" xml:space="preserve">
+    <value>button_load_schema</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 19</value>
+  </data>
+  <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 113</value>
+  </data>
+  <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_new_schema" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_save_schema" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_load_schema" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="button_new_schema.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_new_schema.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="button_new_schema.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 31</value>
+  </data>
+  <data name="button_new_schema.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button_new_schema.Text" xml:space="preserve">
+    <value>Nowy schemat</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Name" xml:space="preserve">
+    <value>button_new_schema</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_new_schema.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button_save_schema.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_save_schema.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 40</value>
+  </data>
+  <data name="button_save_schema.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 31</value>
+  </data>
+  <data name="button_save_schema.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button_save_schema.Text" xml:space="preserve">
+    <value>Save Diagram</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Name" xml:space="preserve">
+    <value>button_save_schema</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_save_schema.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button_load_schema.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_load_schema.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 77</value>
+  </data>
+  <data name="button_load_schema.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 33</value>
+  </data>
+  <data name="button_load_schema.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="button_load_schema.Text" xml:space="preserve">
+    <value>Load Diagram</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Name" xml:space="preserve">
+    <value>button_load_schema</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button_load_schema.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel4.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Name" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TableEditorButtons.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_operation_block" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button_decisive_block" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ButtonStartBlock" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ButtonLink" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="ButtonStopBlock" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ButtonRemove" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Name" xml:space="preserve">
+    <value>TextBoxSelected</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel4.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 19</value>
+  </data>
+  <data name="tableLayoutPanel4.RowCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tableLayoutPanel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 268</value>
+  </data>
+  <data name="tableLayoutPanel4.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Name" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="TableEditorButtons" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label1" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="TextBoxSelected" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Absolute,120,Absolute,20,Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="TableEditorButtons.ColumnCount" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Name" xml:space="preserve">
+    <value>button_operation_block</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Name" xml:space="preserve">
+    <value>button_decisive_block</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Name" xml:space="preserve">
+    <value>ButtonStartBlock</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Name" xml:space="preserve">
+    <value>ButtonLink</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Name" xml:space="preserve">
+    <value>ButtonStopBlock</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Name" xml:space="preserve">
+    <value>ButtonRemove</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="TableEditorButtons.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TableEditorButtons.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="TableEditorButtons.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TableEditorButtons.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 114</value>
+  </data>
+  <data name="TableEditorButtons.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Name" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;TableEditorButtons.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TableEditorButtons.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_operation_block" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="button_decisive_block" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="ButtonStartBlock" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ButtonLink" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="ButtonStopBlock" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="ButtonRemove" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,33.33333,Percent,33.33333,Percent,33.33333" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="button_operation_block.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_operation_block.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="button_operation_block.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAE9JREFUaEPtz8EJwDAMBEH333TSgEHJy2uYgftJj10AAFD1XLbR7qm80efDwwTV
+        CaoTVCeoTlCdoDpBdYLqBNUJqvsddMtGu6fyAACgaq0XjnADDFqciRwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="button_operation_block.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 3</value>
+  </data>
+  <data name="button_operation_block.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 51</value>
+  </data>
+  <data name="button_operation_block.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Name" xml:space="preserve">
+    <value>button_operation_block</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;button_operation_block.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button_decisive_block.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_decisive_block.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="button_decisive_block.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAf9JREFUaEPtmC1SxTAUhSuQSAQSgWABSASSBSCQCCQCwQJwCAQCyQIQSAQSgXwS
+        gUAi2Ab3hHdmSievvUnzc9vpN3Nmmjdtck/b1ySnWVhYMM/RWrMARn7WmrwpmuETwvGpaJKg8O5TORB9
+        iyZnCgWjcBjoQlPnrjUBzkSbzJB90afoyrUMgwK/RH1myK7ItCkUhgJRqBaaunUtQ9yIQs2QbdG76N61
+        DIBCUNCOa8XRNrWFH2pBMyhoLOjjVfQsKm4KAz6J3kQpzBD0C0NFTeUelP2/iFLeLC8YoMQdRN8PolSv
+        sxd0jAEeRTnNtEn5H/0HzdT4tN6JPkQxU4IXdLQS1TBDYiZtL5zJr12rLjS151oR0IyltdaFaGjh64VL
+        /EvXskXf1sQLzVjehNHU4Jb+UGTdDDkWDeYU3PcPOjeAulaeaPkpBd94y/8j1BT1FtGUpTCDHwP1F66L
+        pTBDE76osDDBYmxt+KKCpmqEGVzyjF7Hdamx4h4Tvqhom8q9J+JeaEz4ogKmcocZNJN8Y7cJGMmxFUdf
+        OcIXFTSVKszIdZOCwMApwgxcW91MmzHvPK7BtSXDFxUxYQbNlJwKggiZBHFO7fBFBU31hRkwg3MshC8q
+        +sIMmqm5NozCt9THMX6zGL6ooClsxmjG4qYxCIYZszBD8IRO/g4XFmZG0/wClz52B6iUC9QAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="button_decisive_block.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 60</value>
+  </data>
+  <data name="button_decisive_block.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 51</value>
+  </data>
+  <data name="button_decisive_block.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Name" xml:space="preserve">
+    <value>button_decisive_block</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;button_decisive_block.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ButtonStartBlock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ButtonStartBlock.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ButtonStartBlock.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAppJREFUaEPtmC1zFEEQhk9EICIQEYiIiAhERAQiAoGI4AdERCAiEIiIiJG4yIiI
+        CCQiAhGBiERQoxAREQgEAoFEICIQiNBP9du1d1dU7c3t3t1CzVP1iuuZ/pjd292ZHlUqlUqlUqlUyshp
+        zbRrOjZdmD6Yvpp+mO7HxG/sjDOP+fitKdIK8UUcmN6ZfprGCy8V/sQh3pIXl9OG6dQ0ffW/mN6auOrP
+        TY9NG/Jy3Bc748xjPn7jcYhL/Enf3vE78tp0Z4rkN6YT06ZmzQf+Hod4EZs85FvAHctpz/TNFMnem55o
+        tF+I6/EjF3n3NNoDOR2Zfin4Z9NTjSwW8ng+8v42HWmkA/43iCvFW+mBRpYD+Txv1HCikTnI6bCfQD0w
+        eWEPZS0gpy1TPPyrXUzQLIq6tmSdkZyu5HwlyzCYq66cduTEi+CRrMOAepoX1I6sLfhHDYc3sgwL6vL6
+        TmVpofm4PZNlWFCX13cjSwvNy+ChLMOCury+O1la8Mn3+jVMimr8D+/QrRyG/gzdytJCTmdyuJBlWDRb
+        oTNZWvATJA4cuhZ8JinEz1NxmNyVdQZyupbTpSzDgHq8rmtZZiSnbVN8kV/Kulqow+uhrm1ZC/BzEAE4
+        ixzIuhq810Ad1NPhXJRTUhDElmi5DQw/9sdWDCWNdMCbGXF1PpkKHsYO+MuJfOQl/7FGeiCnfdN3BUe0
+        nGbc7Rbiu33iRy7y7mu0R3JaN/GNiruFPppembodM/xYQBziRWzykG9dsxaEt5zOTbFFCtHQYGtPYdxR
+        3pST2yfftmBnnHnMj0ZIiLjE79YaK8YbGC9MfLOmF1cq/IlDvOU2Yv6KL47eHed+rjp/Hfpp0y1ifmNn
+        nHnMx28Ai6hUKpVKpVL5xxiN/gDq4l3xMDHvDgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="ButtonStartBlock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="ButtonStartBlock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 51</value>
+  </data>
+  <data name="ButtonStartBlock.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Name" xml:space="preserve">
+    <value>ButtonStartBlock</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonStartBlock.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ButtonLink.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ButtonLink.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ButtonLink.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAABWxJREFUaEPt2Xeo/XUdx/EfqbkqN2JZOdGcqWFiWYrhwL0SN2rlVsoUG1qUAzVF
+        3OJeKAZp4SzcWysrR2ppqWmZe7Rc9HzQPfHj998PuefcH5w3PDnn3vO9h8/7816vz+dOG9vYxja2sY3t
+        /dvqcWAcHrvEx2OWsLlihf+9/b99KS6K5+If8VAcElPWqcVjp9gnDo7zJt5/LbaNX8TzE69XxDPxYGwR
+        U8o+EZvFMWH3X4nH4/fxl/hXPBn/jKviiyH1bo434qsxZUy6fD8s+Km4KU6L/WL/+HH8OzhzW3w+Font
+        4zfBcdGbEvax+EFwxOK+EyvHvMHR9eMn8Z+4PtaKBWK7uCNE84RYNkZui4YUk1K/jb1i7pB+G4SF/ipE
+        x+crxkdi4xAVv1dHUm/ktmAcG8/GA7F3SKM14/x4Od4NtXNXfCZ0vc3jl8GZP4cIjtyk04mhW2m7O8cH
+        Y7U4O96KdyZe74+lYo5QO0+EJsBRcHCkNlucFC/Ew7FnzB+fDeljtnDUwkVv1+DMhiHNOHlh/Dx0wq1i
+        pHZUKGTtWGFLo0/HBfFmXBzLh0hJu1Nj05BeUvC6WCI0D7U3UofMGSn2dHwlRGbt0JZfi3Pjw/GB+EK8
+        HiImElLwvdDGNYbjQiRH6tDlYdePjiVDdyJjOHNvbBMDmzOk4ZXhc868GNr2h+KGMJe2jKHb8WFmvBp/
+        Dalmxvj930Mq2e3vxfQ2e+h6ouQZLV531PHIHYN4qF1O5zozOKHAFfQfYt1YJX4af4pbw5x5LA6LgZlH
+        il/qnRKfDA5pKqKl3j4VQzG1oKClmLoh9wlJ76WNdLJYM4bw3C3oMg5asN9RBi+FAbt0+E6zyzO+S4rO
+        E5Nug6FpFzlgsXb7dyEKhOWq8bMYtO7FYo8gfzihC/p7mm6Z8J2HBon0x6DAF4pJt4+GHdaaLV696GZq
+        wc9/i63Dc9JIOl4T5oxGYSMUu5oyfJ2HNAHilSNqjjO+c9LNIglNQ3MgZwxFKXZJaAqmu5Zr+itodaS+
+        fhSE6g7BSRpOnYncQWHmiM43Y76YdJNSPwwDUBrtHnbR0KQAFLbWLI18rkY4QJA+Ep6hsjcKkbwnlgun
+        UZERWY4NpWYs3AKlmXb6jTD81ghzhjOGpiI+IkgY55p9w4JFQ6Q8L2rqx8YcGZ7VAL4Voj0UsxCnSGlh
+        wYqV0Lw01AP17AwzMDutQXCe+PR3ntWCNwnzxflH6nHouzFUM63t4t2xUhiatJhhSBmTNzPurlqzYM+I
+        hvnj73Q8hc/Jy0K0h26ukiyctJFqOhb9Ra5IN11MbUyf/xYuQmpDV3R4U0NnhQ6nA47MSHw7Sro4pEkR
+        zjiEUQa6HsfWCZHSns0gNXd6aBw6pDrxPWQSNTEy45CWStKbN6SM9nxfcOLk4NA5oYVfG9KKAlA3CwcV
+        zflHQ42N1DhkurutoY45c2d8LhzoLJYEIlkoZ+l4Rkgz9woUgNaslr4dI7cdgxPOLF5/HZqDc41XjgzO
+        M9KQGpB20o/G87lUm16YjtQc3CxKiyYwdTXnmfVC99PJOKOWyBlXTtLM3bSocMYtqWiO3Cz6xng7DEg1
+        pJtxStFzRpEreF1MFxQZ9cYZDn89XF+N3ChmQ9POK3Qqms7Stjk3GKpqhZpwf8BhTUJEMThSTwlzLyBd
+        bg//FSDxpR/pYtI7abovUPQUBDVBx9FzOhrxOr2CGLlJFTc1V4f7Ac5wjiMWLEKi51JE+nnWe/rOfwuG
+        cp6ZGXNB7kBmsbeE7mbyi4r0o8tcBFICX554T3y6phqKap5Zc1Y5IJx9SB+Xg7rYjHfNzj4uPGYJI1lE
+        gjYTsSnxX4CxjW1sYxvb2KaeTZv2XxQZgiXdP5TtAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="ButtonLink.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 3</value>
+  </data>
+  <data name="ButtonLink.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 51</value>
+  </data>
+  <data name="ButtonLink.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Name" xml:space="preserve">
+    <value>ButtonLink</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonLink.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ButtonStopBlock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ButtonStopBlock.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ButtonStopBlock.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAsNJREFUaEPtmD1LHFEYhQcsAhZCioCFYCGksxAEC8FfkMJOSCGkEAQ7QbCwW7AQ
+        7AU7i4C1nYVgEbCzECwC/pZ4nnBeGJd1787uzOwt7oHDMu99P86duZ9bFRQUFBQUFGSGf1W1IG6Iv8SB
+        +Ft8FJ/Ftxp5xk47fvgTt+BU84NELIl74pX4ItaFNyXx5CHfkkv0AxVcE3m7w524F7Hvi9sifl8d9h88
+        2047fvgTV89DXuxrDusGKrAsXoh/xSjO0OGtfrPbVCDeecgXualDvWW7tQclpVjMh1exszdIXuenDvWo
+        u+fm2aBEi+KlE0PG+YqbOwV1XC9qo2PRzc1BsHjrZIzrH27qFdR1fXSgp3mnFMQyHJ35I3Y7QROgvnVE
+        p5ot8wpgDBP8JPYyxFJAh/Wga2BzGnLechCTct3mLIAe60Lfls3jIcc7BxzZlBXQZX13Nn0OOW3amU/7
+        xeasgC7rQ+emzaMhh5g7JzZlCfRZ5/i5JIcYbpONzzkBfdY5ftjJIdb7fg+IDYE+63yxaTTs9ObHrDGR
+        Vnpsx+mPGD0AfdaZ/EIxhzZsyhLos87kHIpV7timLIE+60yucrF6sM7P/1o8AuiyPnSmV2M5xbA7tCkr
+        oMv60icFIMcdB3Bm+m5zFkCPdaFvx+Y05HzuIP6hmel63RbQYT3oOrd5MiiA81Lchx7E9u/1DUB960AP
+        upqfMxXEbhydYhJO/olbBHVdPzoz/SlGwWxgw/f6XoYgdVwval+L7Wz4SnQgxmTk91TsZBiS1/nr9Q7c
+        3B6UdFWsf614a7viTIdZ4p2HfPX81Fu1WzdQAa7BDIV4g0H2rzPxp8gGzQv40FGebacdP/xj3wuSl/z9
+        Xv9VkDHO37k34nDnmpJ48pBv/tuERLDM89aZa/x9y2rEnhGn9yDP2GnHD3/isrzuFxQUFBQUFBRkjap6
+        B+pTH/AIJQyXAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="ButtonStopBlock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 60</value>
+  </data>
+  <data name="ButtonStopBlock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 51</value>
+  </data>
+  <data name="ButtonStopBlock.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Name" xml:space="preserve">
+    <value>ButtonStopBlock</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonStopBlock.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ButtonRemove.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ButtonRemove.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ButtonRemove.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAYAAADYfStTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAAsFJREFUaEPtmc1LOkEYx0vLl0OhJCKKFEQ3oZMiCIIn0TL1IOGxi6Rh1w568iK+
+        naR8hyQVIRTBgxcvRoe6eAr8c6aeRQfd3dj1bdsfv/nAl5F9dp55vuy6uzOzQyAQxEEsFkPHx8dIoVDw
+        kkqlQldXV2jaXVyEw2EobCUZDAZoxYVOp8MFSiQSZLPZkNfrZZXb7UZqtRqfD3p9fYVWPBwdHeHi4vE4
+        Z3FfX1/Ubffzk1Kz2eTsIyjzhtrtNq/itFot7iOIodvbW+T3+znl8/mQTCbDxVmtVtbz5gV95HI57mOx
+        WFjPoysYDKKnp6flzJfLZSSVSvFgYpTD4YCWHycnJwudwRxcgb/U/v7+Qk2gfr8PLTfzTyC4NaiDIuD5
+        +XnhzqnX6/xqmzdUq9X4dRIIeBn/NJRWMqTX61EqlUKVSuVPVSgUkNPpxHWBeBuy2+0LHcWo6X+KP+fn
+        54wkYtHBwcHyj+4ZZrMZJ4LPll6vJ6jy+TweHz6pWq3WakZmuFwunPD+/n69ZCswHo/x+NMn3HoQQxuG
+        GOKCjyGYy7y8vPw62GAwQNVq9df4+/s7KhaLrHHBDWUyGRyPRqOMOJjd3d2l4peXl4z45+cn2tvbo+Im
+        k4kRF9xQJBLBcY/Hw4jPG2YruNPp4Di8X6iDcxBDXBBDNIghGsQQF8QQDWKIBjHEBTFEgxiiQQxx8d8Z
+        uru7w3E2Q9lsFsf/CUPdbhcplUpqkvb4+MiIf3x8ULt1sAT18PDAWpDRaKQmgdfX14z4xg1NF+sp3dzc
+        rJ9wSUajER5/OrNdj0QigRPCLt1kMlk/6RIEAgE8/tnZ2WbG1mg0OClsDieTSTQcDtHb29tWBFel0WjM
+        NrWw2G7plYBVm8PDw4XkQisUCkG7WS4uLmZ/TMF0enq6/T0qWDDP5XIonU5vTaVSabsmCATCL+zsfANQ
+        XsU51ai8BAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="ButtonRemove.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 60</value>
+  </data>
+  <data name="ButtonRemove.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 51</value>
+  </data>
+  <data name="ButtonRemove.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Name" xml:space="preserve">
+    <value>ButtonRemove</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.Parent" xml:space="preserve">
+    <value>TableEditorButtons</value>
+  </data>
+  <data name="&gt;&gt;ButtonRemove.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 120</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 20</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Tekst zaznaczonego bloku:</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="TextBoxSelected.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TextBoxSelected.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 143</value>
+  </data>
+  <data name="TextBoxSelected.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="TextBoxSelected.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 122</value>
+  </data>
+  <data name="TextBoxSelected.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="TextBoxSelected.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Name" xml:space="preserve">
+    <value>TextBoxSelected</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;TextBoxSelected.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Name" xml:space="preserve">
+    <value>button_polish_lang</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Name" xml:space="preserve">
+    <value>button_eng_lang</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 19</value>
+  </data>
+  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 90</value>
+  </data>
+  <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Name" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button_polish_lang" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="button_eng_lang" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="button_polish_lang.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_polish_lang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="button_polish_lang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 39</value>
+  </data>
+  <data name="button_polish_lang.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="button_polish_lang.Text" xml:space="preserve">
+    <value>Polski</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Name" xml:space="preserve">
+    <value>button_polish_lang</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;button_polish_lang.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button_eng_lang.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button_eng_lang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 48</value>
+  </data>
+  <data name="button_eng_lang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 39</value>
+  </data>
+  <data name="button_eng_lang.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button_eng_lang.Text" xml:space="preserve">
+    <value>Angielski</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Name" xml:space="preserve">
+    <value>button_eng_lang</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;button_eng_lang.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Canvas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="Canvas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>594, 555</value>
+  </data>
+  <data name="Canvas.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>AutoSize</value>
+  </data>
+  <data name="Canvas.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Canvas.Name" xml:space="preserve">
+    <value>Canvas</value>
+  </data>
+  <data name="&gt;&gt;Canvas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Canvas.Parent" xml:space="preserve">
+    <value>CanvasPanel</value>
+  </data>
+  <data name="&gt;&gt;Canvas.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel5.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="tableLayoutPanel5.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Name" xml:space="preserve">
+    <value>CanvasPanel</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Parent" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel5.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tableLayoutPanel5.RowCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>800, 561</value>
+  </data>
+  <data name="tableLayoutPanel5.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel5.Name" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel5.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="tableLayoutPanel1" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="CanvasPanel" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100,Absolute,200" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="CanvasPanel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CanvasPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="CanvasPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="CanvasPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>594, 555</value>
+  </data>
+  <data name="CanvasPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Name" xml:space="preserve">
+    <value>CanvasPanel</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.Parent" xml:space="preserve">
+    <value>tableLayoutPanel5</value>
+  </data>
+  <data name="&gt;&gt;CanvasPanel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 561</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 600</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>BloqHome</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
